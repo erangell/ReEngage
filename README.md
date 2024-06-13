@@ -57,4 +57,4 @@ This effort intends to relocate the code for Augterm 0.21 from Sourceforge to Gi
 - You can now test typing characters on the chord keyboard when answering prompts.
   Note that characters you typed will not be echoed back to the terminal.
 
-![Photo of homebrew keyset connected to 15 pin gamepad cable][https://github.com/erangell/ReEngage/HomebrewKeysetTo15pinGameCable.jpg "Homebrew Keyset"] 
+![Photo of homebrew keyset connected to 15 pin gamepad cable][https://github.com/erangell/ReEngage/blob/main/HomebrewKeysetTo15pinGameCable.jpg "Homebrew Keyset"] 
